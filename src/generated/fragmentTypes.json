@@ -1,0 +1,23 @@
+{
+  "possibleTypes": {
+    "Entry": [
+      "EntryConsumption",
+      "EntryProduction"
+    ],
+    "Group": [
+      "BoardPeriod",
+      "CommitteePeriod"
+    ],
+    "Mandate": [
+      "DigitalMandate",
+      "PaperMandate"
+    ],
+    "Transaction": [
+      "MembershipFeeTransaction"
+    ],
+    "Translatable": [
+      "LongTranslatable",
+      "ShortTranslatable"
+    ]
+  }
+}

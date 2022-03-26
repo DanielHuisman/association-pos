@@ -1,0 +1,4 @@
+fragment ProductBrandFragment on ProductBrand {
+    id
+    name
+}

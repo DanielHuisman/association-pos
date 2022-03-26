@@ -1,0 +1,6 @@
+fragment ProductCategoryFragment on ProductCategory {
+    id
+    name
+    profitAmount
+    profitPercentage
+}

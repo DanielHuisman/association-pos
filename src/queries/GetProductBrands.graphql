@@ -1,0 +1,9 @@
+# import '../fragments/ProductBrand.graphql'
+
+query GetProductBrands {
+    productBrands {
+        values {
+            ...ProductBrandFragment
+        }
+    }
+}
